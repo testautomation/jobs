@@ -37,10 +37,10 @@ that they have almost no competitors - it's like they are unicorns.
 ```
 
 
-> Now it's up to you -
+> """ Now it's up to you """
 >
 > Do you want to become just an ordinary software developer
-> or a highly demanded software quality engineer?
+> or a highly demanded Software Quality Engineer?
 
 
 ### Duties
